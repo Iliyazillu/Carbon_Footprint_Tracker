@@ -25,5 +25,7 @@ This project analyzes and visualizes carbon footprint data using Python's Pandas
 2. Open the notebook in Jupyter or VSCode
 3. Run each cell step-by-step
 
-## 📬 Contact
-Made by [Your Name] — feel free to connect!
+##  Contact
+Made by ILIYAZ NIDIMAMIDI,
+nidimamidiniliyaz@gmail.com,
+feel free to connect!
